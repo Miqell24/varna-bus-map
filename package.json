@@ -1,0 +1,15 @@
+{
+  "name": "varna-bus-map",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "description": "Interactive map of Varna public transport (36 bus + 4 trolleybus lines) — Bulgarian NAP GTFS + OSM + HMM map matching",
+  "scripts": {
+    "download": "bash pipeline/download.sh",
+    "build": "node --max-old-space-size=4096 pipeline/build.mjs --all",
+    "lines": "node --max-old-space-size=4096 pipeline/lines.mjs",
+    "report": "node pipeline/report-gaps.mjs",
+    "audit": "node --max-old-space-size=4096 pipeline/audit.mjs",
+    "serve": "node pipeline/serve.mjs 8167"
+  }
+}

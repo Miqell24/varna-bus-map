@@ -1,0 +1,2679 @@
+{
+  "generatedAt": "2026-08-31T14:57:23.611Z",
+  "bbox": [
+    27.776058,
+    43.126638,
+    28.051784,
+    43.307691
+  ],
+  "badgeBands": [
+    [
+      13,
+      13.6
+    ],
+    [
+      13.6,
+      14.4
+    ],
+    [
+      14.4,
+      15.5
+    ],
+    [
+      15.5,
+      16.8
+    ],
+    [
+      16.8,
+      22
+    ]
+  ],
+  "modes": [
+    {
+      "mode": "bus",
+      "label": "buses & trolleybuses",
+      "color": "#0059a9"
+    }
+  ],
+  "lines": [
+    {
+      "line": "1",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Бизнес парк - ЖП Гара",
+          "headsign": "Бизнес парк - ЖП Гара",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 19,
+          "lengthKm": 9.34,
+          "stats": {
+            "observations": 447,
+            "matched": 447,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.905979934695603,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Бизнес парк",
+          "headsign": "ЖП Гара - Бизнес парк",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 18,
+          "lengthKm": 9.5,
+          "stats": {
+            "observations": 466,
+            "matched": 466,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5995769614114046,
+            "roundaboutSegs": 33,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "7",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Бизнес парк - Вин. з-д - ЖП Гара",
+          "headsign": "Бизнес парк - Вин. з-д - ЖП Гара",
+          "variants": 1,
+          "tripCount": 7,
+          "stops": 25,
+          "lengthKm": 12.31,
+          "stats": {
+            "observations": 616,
+            "matched": 616,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.992811809092237,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Бизнес парк - Метал - ЖП Гара",
+          "headsign": "Бизнес парк - Метал - ЖП Гара",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 28,
+          "lengthKm": 13.22,
+          "stats": {
+            "observations": 656,
+            "matched": 656,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9878003932811523,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Елпром - ЖП Гара",
+          "headsign": "Елпром - ЖП Гара",
+          "variants": 2,
+          "tripCount": 78,
+          "stops": 24,
+          "lengthKm": 11.3,
+          "stats": {
+            "observations": 562,
+            "matched": 562,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.771304624543485,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Елпром",
+          "headsign": "ЖП Гара - Елпром",
+          "variants": 1,
+          "tripCount": 81,
+          "stops": 24,
+          "lengthKm": 11.96,
+          "stats": {
+            "observations": 581,
+            "matched": 581,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.466979540820342,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - ЗПЗ",
+          "headsign": "ЖП Гара - ЗПЗ",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 29,
+          "lengthKm": 13.86,
+          "stats": {
+            "observations": 690,
+            "matched": 690,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.245671110265589,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Картонажна - Бизнес парк",
+          "headsign": "ЖП Гара - Картонажна - Бизнес парк",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 29,
+          "lengthKm": 14.28,
+          "stats": {
+            "observations": 712,
+            "matched": 712,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0847139856646404,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Картонажна фабрика - Бизнес парк",
+          "headsign": "ЖП Гара - Картонажна фабрика - Бизнес парк",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 30,
+          "lengthKm": 14.3,
+          "stats": {
+            "observations": 711,
+            "matched": 711,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.231911175954285,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Спортист- Бизнес парк",
+          "headsign": "ЖП Гара - Спортист- Бизнес парк",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 34,
+          "lengthKm": 17.28,
+          "stats": {
+            "observations": 863,
+            "matched": 863,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.180729311580059,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Топливо",
+          "headsign": "ЖП Гара - Топливо",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 27,
+          "lengthKm": 13.54,
+          "stats": {
+            "observations": 675,
+            "matched": 675,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.2786655180385944,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара -Вин. з-д- Бизнес парк",
+          "headsign": "ЖП Гара -Вин. з-д- Бизнес парк",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 26,
+          "lengthKm": 13.31,
+          "stats": {
+            "observations": 663,
+            "matched": 663,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.2924629057959174,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЗПЗ - ЖП Гара",
+          "headsign": "ЗПЗ - ЖП Гара",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 27,
+          "lengthKm": 12.88,
+          "stats": {
+            "observations": 638,
+            "matched": 638,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0141256912435193,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Топливо - ЖП Гара",
+          "headsign": "Топливо - ЖП Гара",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 25,
+          "lengthKm": 12.57,
+          "stats": {
+            "observations": 625,
+            "matched": 625,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.341536449395873,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "9",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ЖП Гара - Република",
+          "headsign": "ЖП Гара - Република",
+          "variants": 1,
+          "tripCount": 16,
+          "stops": 27,
+          "lengthKm": 20.44,
+          "stats": {
+            "observations": 1010,
+            "matched": 1010,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9537426347430273,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Република - ЖП Гара",
+          "headsign": "Република - ЖП Гара",
+          "variants": 1,
+          "tripCount": 16,
+          "stops": 27,
+          "lengthKm": 19.39,
+          "stats": {
+            "observations": 974,
+            "matched": 974,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6574400994186542,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "10",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ЖП Гара - Х. Димитър",
+          "headsign": "ЖП Гара - Х. Димитър",
+          "variants": 2,
+          "tripCount": 74,
+          "stops": 10,
+          "lengthKm": 5.82,
+          "stats": {
+            "observations": 290,
+            "matched": 290,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9681496295290157,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "КРЗ- Х. Димитър",
+          "headsign": "КРЗ- Х. Димитър",
+          "variants": 2,
+          "tripCount": 2,
+          "stops": 16,
+          "lengthKm": 8.8,
+          "stats": {
+            "observations": 441,
+            "matched": 441,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8919742103200938,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Х. Димитър - ЖП Гара",
+          "headsign": "Х. Димитър - ЖП Гара",
+          "variants": 2,
+          "tripCount": 19,
+          "stops": 9,
+          "lengthKm": 4.81,
+          "stats": {
+            "observations": 242,
+            "matched": 242,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.473278958613199,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Х. Димитър - КРЗ",
+          "headsign": "Х. Димитър - КРЗ",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 16,
+          "lengthKm": 7.99,
+          "stats": {
+            "observations": 398,
+            "matched": 398,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9021825501288205,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "12",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Аспарухово - Бриз",
+          "headsign": "Аспарухово - Бриз",
+          "variants": 1,
+          "tripCount": 117,
+          "stops": 23,
+          "lengthKm": 13.02,
+          "stats": {
+            "observations": 648,
+            "matched": 648,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9258634249041595,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Бриз- Аспарухово",
+          "headsign": "Бриз- Аспарухово",
+          "variants": 1,
+          "tripCount": 114,
+          "stops": 25,
+          "lengthKm": 13.52,
+          "stats": {
+            "observations": 674,
+            "matched": 674,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.791966467156842,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "13",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Бл. 22 - ЖП Гара",
+          "headsign": "Бл. 22 - ЖП Гара",
+          "variants": 1,
+          "tripCount": 117,
+          "stops": 12,
+          "lengthKm": 5.58,
+          "stats": {
+            "observations": 276,
+            "matched": 276,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8267442924851287,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Бл. 22 - КРЗ",
+          "headsign": "Бл. 22 - КРЗ",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 17,
+          "lengthKm": 7.37,
+          "stats": {
+            "observations": 368,
+            "matched": 368,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9228860636377945,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Бл. 22",
+          "headsign": "ЖП Гара - Бл. 22",
+          "variants": 2,
+          "tripCount": 47,
+          "stops": 14,
+          "lengthKm": 6.85,
+          "stats": {
+            "observations": 338,
+            "matched": 338,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.001971808248658,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Хлебозавод - В.Б.-бл.22",
+          "headsign": "ЖП Гара - Хлебозавод - В.Б.-бл.22",
+          "variants": 1,
+          "tripCount": 28,
+          "stops": 13,
+          "lengthKm": 8.09,
+          "stats": {
+            "observations": 402,
+            "matched": 402,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7512868927961647,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "КРЗ- Бл. 22",
+          "headsign": "КРЗ- Бл. 22",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 20,
+          "lengthKm": 9.78,
+          "stats": {
+            "observations": 482,
+            "matched": 482,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8457062051759627,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "14",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Бл. 407 - Почивка",
+          "headsign": "Бл. 407 - Почивка",
+          "variants": 3,
+          "tripCount": 49,
+          "stops": 34,
+          "lengthKm": 16.84,
+          "stats": {
+            "observations": 842,
+            "matched": 842,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.702735084040238,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Почивка - Владиславово",
+          "headsign": "Почивка - Владиславово",
+          "variants": 3,
+          "tripCount": 48,
+          "stops": 30,
+          "lengthKm": 14.45,
+          "stats": {
+            "observations": 721,
+            "matched": 721,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8842008144604445,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "17",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Боровец - Галата - ЖП Гара",
+          "headsign": "Боровец - Галата - ЖП Гара",
+          "variants": 2,
+          "tripCount": 6,
+          "stops": 31,
+          "lengthKm": 16.26,
+          "stats": {
+            "observations": 812,
+            "matched": 812,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.613258579969485,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Боровец - Галата - Почивка",
+          "headsign": "Боровец - Галата - Почивка",
+          "variants": 2,
+          "tripCount": 9,
+          "stops": 40,
+          "lengthKm": 21.63,
+          "stats": {
+            "observations": 1080,
+            "matched": 1080,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.679119341777572,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Галата - Почивка",
+          "headsign": "Галата - Почивка",
+          "variants": 3,
+          "tripCount": 13,
+          "stops": 31,
+          "lengthKm": 17.64,
+          "stats": {
+            "observations": 880,
+            "matched": 880,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7370541107339683,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Галата - Боровец",
+          "headsign": "ЖП Гара - Галата - Боровец",
+          "variants": 3,
+          "tripCount": 5,
+          "stops": 31,
+          "lengthKm": 17.75,
+          "stats": {
+            "observations": 886,
+            "matched": 886,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5888697048149787,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Галата - Ракитника",
+          "headsign": "ЖП Гара - Галата - Ракитника",
+          "variants": 2,
+          "tripCount": 5,
+          "stops": 33,
+          "lengthKm": 19.08,
+          "stats": {
+            "observations": 952,
+            "matched": 952,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8023031282730146,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Галата - Черноморец",
+          "headsign": "ЖП Гара - Галата - Черноморец",
+          "variants": 3,
+          "tripCount": 7,
+          "stops": 33,
+          "lengthKm": 19.1,
+          "stats": {
+            "observations": 952,
+            "matched": 952,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8165378775943881,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Малък Обръщач Боровец",
+          "headsign": "ЖП Гара - Малък Обръщач Боровец",
+          "variants": 2,
+          "tripCount": 2,
+          "stops": 13,
+          "lengthKm": 11.51,
+          "stats": {
+            "observations": 576,
+            "matched": 576,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6501718999763713,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Малък обръщач Боровец",
+          "headsign": "ЖП Гара - Малък обръщач Боровец",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 13,
+          "lengthKm": 11.5,
+          "stats": {
+            "observations": 574,
+            "matched": 574,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6623935092727637,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - кв. Галата",
+          "headsign": "ЖП Гара - кв. Галата",
+          "variants": 2,
+          "tripCount": 12,
+          "stops": 22,
+          "lengthKm": 13.08,
+          "stats": {
+            "observations": 651,
+            "matched": 651,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7292484561538648,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Почивка - Галата - Боровец",
+          "headsign": "Почивка - Галата - Боровец",
+          "variants": 4,
+          "tripCount": 6,
+          "stops": 40,
+          "lengthKm": 22.31,
+          "stats": {
+            "observations": 1115,
+            "matched": 1115,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5975317957909407,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Почивка - Галата - Ракитника",
+          "headsign": "Почивка - Галата - Ракитника",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 42,
+          "lengthKm": 23.64,
+          "stats": {
+            "observations": 1181,
+            "matched": 1181,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.789680541634454,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Почивка - Галата - Черноморец",
+          "headsign": "Почивка - Галата - Черноморец",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 42,
+          "lengthKm": 23.64,
+          "stats": {
+            "observations": 1181,
+            "matched": 1181,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.789680541634454,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Почивка - кв. Галата",
+          "headsign": "Почивка - кв. Галата",
+          "variants": 1,
+          "tripCount": 21,
+          "stops": 31,
+          "lengthKm": 17.65,
+          "stats": {
+            "observations": 882,
+            "matched": 882,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7023712604789187,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Ракитника - Галата - ЖП Гара",
+          "headsign": "Ракитника - Галата - ЖП Гара",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 33,
+          "lengthKm": 18.24,
+          "stats": {
+            "observations": 911,
+            "matched": 911,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8064813644646438,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Черноморец - Галата - ЖП Гара",
+          "headsign": "Черноморец - Галата - ЖП Гара",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 33,
+          "lengthKm": 18.24,
+          "stats": {
+            "observations": 912,
+            "matched": 912,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.798136837461387,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Черноморец - Галата - Почивка",
+          "headsign": "Черноморец - Галата - Почивка",
+          "variants": 2,
+          "tripCount": 8,
+          "stops": 42,
+          "lengthKm": 23.61,
+          "stats": {
+            "observations": 1178,
+            "matched": 1178,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7844886715776338,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Черноморец- Галата - Почивка",
+          "headsign": "Черноморец- Галата - Почивка",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 42,
+          "lengthKm": 23.61,
+          "stats": {
+            "observations": 1179,
+            "matched": 1179,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.801608838827396,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "кв.Галата - ЖП Гара",
+          "headsign": "кв.Галата - ЖП Гара",
+          "variants": 3,
+          "tripCount": 24,
+          "stops": 22,
+          "lengthKm": 12.28,
+          "stats": {
+            "observations": 613,
+            "matched": 613,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6950469658732623,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "18",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ЖП Гара - Гробище - с. Тополи",
+          "headsign": "ЖП Гара - Гробище - с. Тополи",
+          "variants": 2,
+          "tripCount": 9,
+          "stops": 19,
+          "lengthKm": 14.84,
+          "stats": {
+            "observations": 742,
+            "matched": 742,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.179513757059331,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Гробище - с. Тополи - с. Казашко",
+          "headsign": "ЖП Гара - Гробище - с. Тополи - с. Казашко",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 22,
+          "lengthKm": 17.01,
+          "stats": {
+            "observations": 850,
+            "matched": 850,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0593603584541333,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - с. Тополи",
+          "headsign": "ЖП Гара - с. Тополи",
+          "variants": 2,
+          "tripCount": 22,
+          "stops": 19,
+          "lengthKm": 12.04,
+          "stats": {
+            "observations": 602,
+            "matched": 602,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4041554095117026,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - с. Тополи - с. Казашко",
+          "headsign": "ЖП Гара - с. Тополи - с. Казашко",
+          "variants": 3,
+          "tripCount": 13,
+          "stops": 22,
+          "lengthKm": 14.22,
+          "stats": {
+            "observations": 711,
+            "matched": 711,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.225752221508978,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "с. Казашко - с. Тополи - ЖП Гара",
+          "headsign": "с. Казашко - с. Тополи - ЖП Гара",
+          "variants": 1,
+          "tripCount": 27,
+          "stops": 22,
+          "lengthKm": 13.74,
+          "stats": {
+            "observations": 686,
+            "matched": 686,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.198999925624478,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "с. Тополи - Гробища - ЖП Гара",
+          "headsign": "с. Тополи - Гробища - ЖП Гара",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 20,
+          "lengthKm": 14.35,
+          "stats": {
+            "observations": 716,
+            "matched": 716,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9974676351378213,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "с. Тополи - ЖП Гара",
+          "headsign": "с. Тополи - ЖП Гара",
+          "variants": 1,
+          "tripCount": 43,
+          "stops": 19,
+          "lengthKm": 11.56,
+          "stats": {
+            "observations": 577,
+            "matched": 577,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.40863782103131,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "20",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ЖП Гара - Бл. 407",
+          "headsign": "ЖП Гара - Бл. 407",
+          "variants": 2,
+          "tripCount": 120,
+          "stops": 24,
+          "lengthKm": 11.81,
+          "stats": {
+            "observations": 589,
+            "matched": 589,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9633322214652997,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "бл.407 - ЖП Гара",
+          "headsign": "бл.407 - ЖП Гара",
+          "variants": 2,
+          "tripCount": 119,
+          "stops": 24,
+          "lengthKm": 11.97,
+          "stats": {
+            "observations": 593,
+            "matched": 593,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8122761470695998,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "22",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Бл. 407 - Елпром - ЖП Гара",
+          "headsign": "Бл. 407 - Елпром - ЖП Гара",
+          "variants": 3,
+          "tripCount": 47,
+          "stops": 24,
+          "lengthKm": 10.88,
+          "stats": {
+            "observations": 544,
+            "matched": 544,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1941382002596663,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Бл. 407",
+          "headsign": "ЖП Гара - Бл. 407",
+          "variants": 3,
+          "tripCount": 48,
+          "stops": 24,
+          "lengthKm": 10.7,
+          "stats": {
+            "observations": 533,
+            "matched": 533,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.2556502088879835,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "23",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Каменар - ЖП Гара",
+          "headsign": "Каменар - ЖП Гара",
+          "variants": 1,
+          "tripCount": 19,
+          "stops": 18,
+          "lengthKm": 12.02,
+          "stats": {
+            "observations": 600,
+            "matched": 600,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7585998254026767,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Локомотивно депо-ЖП Гара - Каменар",
+          "headsign": "Локомотивно депо-ЖП Гара - Каменар",
+          "variants": 1,
+          "tripCount": 17,
+          "stops": 19,
+          "lengthKm": 11.96,
+          "stats": {
+            "observations": 604,
+            "matched": 604,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.821877508935064,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "29",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Аладжа м-р - кв. Виница - ЖП Гара",
+          "headsign": "Аладжа м-р - кв. Виница - ЖП Гара",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 23,
+          "lengthKm": 15.82,
+          "stats": {
+            "observations": 792,
+            "matched": 792,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.2750757401633908,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - кв. Виница - Аладжа м-р",
+          "headsign": "ЖП Гара - кв. Виница - Аладжа м-р",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 24,
+          "lengthKm": 16.09,
+          "stats": {
+            "observations": 804,
+            "matched": 804,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9695024160185517,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "30",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Линия 30 - Добрева чешма - Почивка",
+          "headsign": "Линия 30 - Добрева чешма - Почивка",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 15,
+          "lengthKm": 10.14,
+          "stats": {
+            "observations": 473,
+            "matched": 473,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.1089314603582183,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Линия 30 - Почивка - Добрева чешма",
+          "headsign": "Линия 30 - Почивка - Добрева чешма",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 13,
+          "lengthKm": 8.84,
+          "stats": {
+            "observations": 444,
+            "matched": 444,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7669072189958697,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "31",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Виница - ЖП Гара",
+          "headsign": "Виница - ЖП Гара",
+          "variants": 1,
+          "tripCount": 124,
+          "stops": 19,
+          "lengthKm": 10.43,
+          "stats": {
+            "observations": 519,
+            "matched": 519,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7289676038051451,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Виница",
+          "headsign": "ЖП Гара - Виница",
+          "variants": 1,
+          "tripCount": 123,
+          "stops": 20,
+          "lengthKm": 10.81,
+          "stats": {
+            "observations": 542,
+            "matched": 542,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4723537681869168,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "31A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Линия 31А - Виница - Св. Константин и Елена - ЖП Гара",
+          "headsign": "Линия 31А - Виница - Св. Константин и Елена - ЖП Гара",
+          "variants": 2,
+          "tripCount": 25,
+          "stops": 27,
+          "lengthKm": 15.74,
+          "stats": {
+            "observations": 789,
+            "matched": 789,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.032959640024585,
+            "roundaboutSegs": 32,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Линия 31А - ЖП Гара - Св. Константин и Елена - Виница",
+          "headsign": "Линия 31А - ЖП Гара - Св. Константин и Елена - Виница",
+          "variants": 1,
+          "tripCount": 39,
+          "stops": 28,
+          "lengthKm": 15.92,
+          "stats": {
+            "observations": 797,
+            "matched": 797,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0376257154310644,
+            "roundaboutSegs": 33,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "36",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ЖП Гара - Звездица",
+          "headsign": "ЖП Гара - Звездица",
+          "variants": 1,
+          "tripCount": 15,
+          "stops": 15,
+          "lengthKm": 13.34,
+          "stats": {
+            "observations": 663,
+            "matched": 663,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5598204945366203,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Звездица гробищен парк",
+          "headsign": "ЖП Гара - Звездица гробищен парк",
+          "variants": 1,
+          "tripCount": 10,
+          "stops": 17,
+          "lengthKm": 14.44,
+          "stats": {
+            "observations": 719,
+            "matched": 719,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.565165779210582,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Звездица - ЖП Гара",
+          "headsign": "Звездица - ЖП Гара",
+          "variants": 1,
+          "tripCount": 25,
+          "stops": 14,
+          "lengthKm": 13.61,
+          "stats": {
+            "observations": 678,
+            "matched": 678,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8070544378600466,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "37",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ЖП Гара - Звездица - Константиново",
+          "headsign": "ЖП Гара - Звездица - Константиново",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 23,
+          "lengthKm": 26.72,
+          "stats": {
+            "observations": 1331,
+            "matched": 1331,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4966723437445903,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Константиново",
+          "headsign": "ЖП Гара - Константиново",
+          "variants": 1,
+          "tripCount": 18,
+          "stops": 18,
+          "lengthKm": 17.27,
+          "stats": {
+            "observations": 860,
+            "matched": 860,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5349704286495054,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Константиново - ЖП Гара",
+          "headsign": "Константиново - ЖП Гара",
+          "variants": 1,
+          "tripCount": 20,
+          "stops": 18,
+          "lengthKm": 17.37,
+          "stats": {
+            "observations": 864,
+            "matched": 864,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4435539852224537,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "39",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ОПСО - Обр 39 - Почивка",
+          "headsign": "ОПСО - Обр 39 - Почивка",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 24,
+          "lengthKm": 11.7,
+          "stats": {
+            "observations": 586,
+            "matched": 586,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.806247161790839,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Обр 39 - Почивка",
+          "headsign": "Обр 39 - Почивка",
+          "variants": 1,
+          "tripCount": 52,
+          "stops": 21,
+          "lengthKm": 10.46,
+          "stats": {
+            "observations": 521,
+            "matched": 521,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9226045429352077,
+            "roundaboutSegs": 48,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Почивка - обр 39",
+          "headsign": "Почивка - обр 39",
+          "variants": 1,
+          "tripCount": 53,
+          "stops": 21,
+          "lengthKm": 10.07,
+          "stats": {
+            "observations": 499,
+            "matched": 499,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7413195398974246,
+            "roundaboutSegs": 40,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Почивка -Обр 39-ОПСО",
+          "headsign": "Почивка -Обр 39-ОПСО",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 24,
+          "lengthKm": 11.54,
+          "stats": {
+            "observations": 576,
+            "matched": 576,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6483523158546696,
+            "roundaboutSegs": 50,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "41",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Бл. 407 - ЖП Гара",
+          "headsign": "Бл. 407 - ЖП Гара",
+          "variants": 3,
+          "tripCount": 49,
+          "stops": 33,
+          "lengthKm": 14.75,
+          "stats": {
+            "observations": 734,
+            "matched": 734,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.82543941779698,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Бл. 407",
+          "headsign": "ЖП Гара - Бл. 407",
+          "variants": 2,
+          "tripCount": 59,
+          "stops": 26,
+          "lengthKm": 13.48,
+          "stats": {
+            "observations": 677,
+            "matched": 677,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.124151853961134,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "46 Б",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Боровец - Галата - ЖП Гара",
+          "headsign": "Боровец - Галата - ЖП Гара",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 24,
+          "lengthKm": 13.95,
+          "stats": {
+            "observations": 679,
+            "matched": 679,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.629373237975282,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Галата - Боровец - ЖП Гара",
+          "headsign": "Галата - Боровец - ЖП Гара",
+          "variants": 1,
+          "tripCount": 27,
+          "stops": 20,
+          "lengthKm": 14.89,
+          "stats": {
+            "observations": 741,
+            "matched": 741,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6938145481891276,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Боровец",
+          "headsign": "ЖП Гара - Боровец",
+          "variants": 1,
+          "tripCount": 27,
+          "stops": 22,
+          "lengthKm": 15.4,
+          "stats": {
+            "observations": 773,
+            "matched": 773,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.581630125255235,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Боровец - Галата",
+          "headsign": "ЖП Гара - Боровец - Галата",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 19,
+          "lengthKm": 13.84,
+          "stats": {
+            "observations": 653,
+            "matched": 653,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4806780650053133,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "55",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ЖП Гара - Корабостроител",
+          "headsign": "ЖП Гара - Корабостроител",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 17,
+          "lengthKm": 17.34,
+          "stats": {
+            "observations": 867,
+            "matched": 867,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0031576951030425,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Корабостроител - ЖП Гара",
+          "headsign": "Корабостроител - ЖП Гара",
+          "variants": 2,
+          "tripCount": 2,
+          "stops": 17,
+          "lengthKm": 17.29,
+          "stats": {
+            "observations": 863,
+            "matched": 863,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6981660265319187,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "82",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "Бл. 407 - ЖП Гара",
+          "headsign": "Бл. 407 - ЖП Гара",
+          "variants": 3,
+          "tripCount": 63,
+          "stops": 24,
+          "lengthKm": 10.52,
+          "stats": {
+            "observations": 526,
+            "matched": 526,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9626973447504792,
+            "roundaboutSegs": 32,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Бл. 407",
+          "headsign": "ЖП Гара - Бл. 407",
+          "variants": 2,
+          "tripCount": 48,
+          "stops": 23,
+          "lengthKm": 10.31,
+          "stats": {
+            "observations": 514,
+            "matched": 514,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.2501302949055217,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "83",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "ЖП Гара - Бл. 407",
+          "headsign": "ЖП Гара - Бл. 407",
+          "variants": 1,
+          "tripCount": 80,
+          "stops": 25,
+          "lengthKm": 12.56,
+          "stats": {
+            "observations": 630,
+            "matched": 630,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.961275364417593,
+            "roundaboutSegs": 47,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Линия 83 - Бл. 407 - ЖП Гара",
+          "headsign": "Линия 83 - Бл. 407 - ЖП Гара",
+          "variants": 1,
+          "tripCount": 79,
+          "stops": 27,
+          "lengthKm": 11.96,
+          "stats": {
+            "observations": 615,
+            "matched": 615,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.355794452653171,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "88",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "Аспарухово - Бл. 407",
+          "headsign": "Аспарухово - Бл. 407",
+          "variants": 1,
+          "tripCount": 101,
+          "stops": 30,
+          "lengthKm": 14.81,
+          "stats": {
+            "observations": 737,
+            "matched": 737,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1894695761170713,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Бл. 407 - Аспарухово",
+          "headsign": "Бл. 407 - Аспарухово",
+          "variants": 1,
+          "tripCount": 101,
+          "stops": 30,
+          "lengthKm": 15.02,
+          "stats": {
+            "observations": 749,
+            "matched": 749,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.95735358086118,
+            "roundaboutSegs": 29,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "109",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ЖП Гара -Журналист- Панорама",
+          "headsign": "ЖП Гара -Журналист- Панорама",
+          "variants": 2,
+          "tripCount": 33,
+          "stops": 31,
+          "lengthKm": 23.43,
+          "stats": {
+            "observations": 1168,
+            "matched": 1168,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.901872864868221,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Златни пясъци Панорама -Журналист- ЖП Гара",
+          "headsign": "Златни пясъци Панорама -Журналист- ЖП Гара",
+          "variants": 2,
+          "tripCount": 40,
+          "stops": 31,
+          "lengthKm": 23.39,
+          "stats": {
+            "observations": 1168,
+            "matched": 1168,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7797784231387224,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "118",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Линия 118 - Бизнес парк- Почивка",
+          "headsign": "Линия 118 - Бизнес парк- Почивка",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 37,
+          "lengthKm": 17.09,
+          "stats": {
+            "observations": 850,
+            "matched": 850,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8005216667230952,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Линия 118 - Владиславово - Почивка",
+          "headsign": "Линия 118 - Владиславово - Почивка",
+          "variants": 3,
+          "tripCount": 34,
+          "stops": 34,
+          "lengthKm": 15.18,
+          "stats": {
+            "observations": 756,
+            "matched": 756,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.868586492175312,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Линия 118 - Гробища - Тополи - Почивка",
+          "headsign": "Линия 118 - Гробища - Тополи - Почивка",
+          "variants": 1,
+          "tripCount": 17,
+          "stops": 44,
+          "lengthKm": 24.28,
+          "stats": {
+            "observations": 1209,
+            "matched": 1209,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7833100785877491,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Линия 118 - Гробище - Тополи - Почивка",
+          "headsign": "Линия 118 - Гробище - Тополи - Почивка",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 42,
+          "lengthKm": 23,
+          "stats": {
+            "observations": 1143,
+            "matched": 1143,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7971687786417156,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Линия 118 - Казашко - Почивка",
+          "headsign": "Линия 118 - Казашко - Почивка",
+          "variants": 2,
+          "tripCount": 4,
+          "stops": 44,
+          "lengthKm": 23.83,
+          "stats": {
+            "observations": 1188,
+            "matched": 1188,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.806474247657177,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Линия 118 - Почивка - Бизнес парк",
+          "headsign": "Линия 118 - Почивка - Бизнес парк",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 35,
+          "lengthKm": 16.49,
+          "stats": {
+            "observations": 821,
+            "matched": 821,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9022498095797025,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Линия 118 - Почивка - Владиславово",
+          "headsign": "Линия 118 - Почивка - Владиславово",
+          "variants": 2,
+          "tripCount": 44,
+          "stops": 34,
+          "lengthKm": 14.44,
+          "stats": {
+            "observations": 719,
+            "matched": 719,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8774475714402168,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Линия 118 - Почивка - Тополи",
+          "headsign": "Линия 118 - Почивка - Тополи",
+          "variants": 3,
+          "tripCount": 10,
+          "stops": 40,
+          "lengthKm": 21.11,
+          "stats": {
+            "observations": 1050,
+            "matched": 1050,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.864208648935905,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Линия 118 - Почивка - Тополи - Гробища",
+          "headsign": "Линия 118 - Почивка - Тополи - Гробища",
+          "variants": 1,
+          "tripCount": 23,
+          "stops": 40,
+          "lengthKm": 21.97,
+          "stats": {
+            "observations": 1095,
+            "matched": 1095,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8260286359541957,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Линия 118 - Почивка - Тополи - Казашко",
+          "headsign": "Линия 118 - Почивка - Тополи - Казашко",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 43,
+          "lengthKm": 23.17,
+          "stats": {
+            "observations": 1155,
+            "matched": 1155,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.759313322922822,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Линия 118 - Тополи - Почивка",
+          "headsign": "Линия 118 - Тополи - Почивка",
+          "variants": 1,
+          "tripCount": 16,
+          "stops": 41,
+          "lengthKm": 21.63,
+          "stats": {
+            "observations": 1076,
+            "matched": 1076,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8765481036586458,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "122",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Бл.407 - КРЗ",
+          "headsign": "Бл.407 - КРЗ",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 20,
+          "lengthKm": 12.59,
+          "stats": {
+            "observations": 629,
+            "matched": 629,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0969108028962955,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "КРЗ - Бл. 407",
+          "headsign": "КРЗ - Бл. 407",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 20,
+          "lengthKm": 12.18,
+          "stats": {
+            "observations": 608,
+            "matched": 608,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.181315497093485,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "148",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Бл. 407 - Почивка",
+          "headsign": "Бл. 407 - Почивка",
+          "variants": 2,
+          "tripCount": 126,
+          "stops": 32,
+          "lengthKm": 15.25,
+          "stats": {
+            "observations": 760,
+            "matched": 760,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8875494662401537,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Почивка - Бл. 407",
+          "headsign": "Почивка - Бл. 407",
+          "variants": 2,
+          "tripCount": 127,
+          "stops": 30,
+          "lengthKm": 14.53,
+          "stats": {
+            "observations": 726,
+            "matched": 726,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0150298775850026,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "209",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Почивка - бл. 407",
+          "headsign": "Почивка - бл. 407",
+          "variants": 1,
+          "tripCount": 78,
+          "stops": 28,
+          "lengthKm": 14.55,
+          "stats": {
+            "observations": 724,
+            "matched": 724,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7182608093226024,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "бл. 407 - Почивка",
+          "headsign": "бл. 407 - Почивка",
+          "variants": 1,
+          "tripCount": 77,
+          "stops": 29,
+          "lengthKm": 15.61,
+          "stats": {
+            "observations": 779,
+            "matched": 779,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.83557797870802,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "209 Б",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Бърз Владиславово - Зл. Пясъци",
+          "headsign": "Бърз Владиславово - Зл. Пясъци",
+          "variants": 1,
+          "tripCount": 24,
+          "stops": 33,
+          "lengthKm": 26.71,
+          "stats": {
+            "observations": 1336,
+            "matched": 1336,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1758483329897302,
+            "roundaboutSegs": 37,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Бърз Зл. Пясъци - Владиславово",
+          "headsign": "Бърз Зл. Пясъци - Владиславово",
+          "variants": 1,
+          "tripCount": 24,
+          "stops": 33,
+          "lengthKm": 26.26,
+          "stats": {
+            "observations": 1312,
+            "matched": 1312,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7089055638135584,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "409",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Аксаково - Република",
+          "headsign": "Аксаково - Република",
+          "variants": 1,
+          "tripCount": 35,
+          "stops": 45,
+          "lengthKm": 33.27,
+          "stats": {
+            "observations": 1665,
+            "matched": 1665,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0388898350157545,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Република - Аксаково",
+          "headsign": "Република - Аксаково",
+          "variants": 1,
+          "tripCount": 35,
+          "stops": 45,
+          "lengthKm": 34.34,
+          "stats": {
+            "observations": 1713,
+            "matched": 1713,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9964491381792218,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    }
+  ]
+}
