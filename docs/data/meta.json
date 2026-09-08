@@ -37,6 +37,153 @@
   ],
   "lines": [
     {
+      "line": "82",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "Бл. 407 - ЖП Гара",
+          "headsign": "Бл. 407 - ЖП Гара",
+          "variants": 3,
+          "tripCount": 63,
+          "stops": 24,
+          "lengthKm": 10.52,
+          "stats": {
+            "observations": 526,
+            "matched": 526,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9626973447504792,
+            "roundaboutSegs": 32,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ЖП Гара - Бл. 407",
+          "headsign": "ЖП Гара - Бл. 407",
+          "variants": 2,
+          "tripCount": 48,
+          "stops": 23,
+          "lengthKm": 10.31,
+          "stats": {
+            "observations": 514,
+            "matched": 514,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.2501302949055217,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "83",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "ЖП Гара - Бл. 407",
+          "headsign": "ЖП Гара - Бл. 407",
+          "variants": 1,
+          "tripCount": 80,
+          "stops": 25,
+          "lengthKm": 12.56,
+          "stats": {
+            "observations": 630,
+            "matched": 630,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.961275364417593,
+            "roundaboutSegs": 47,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Линия 83 - Бл. 407 - ЖП Гара",
+          "headsign": "Линия 83 - Бл. 407 - ЖП Гара",
+          "variants": 1,
+          "tripCount": 79,
+          "stops": 27,
+          "lengthKm": 11.96,
+          "stats": {
+            "observations": 615,
+            "matched": 615,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.355794452653171,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "88",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "Аспарухово - Бл. 407",
+          "headsign": "Аспарухово - Бл. 407",
+          "variants": 1,
+          "tripCount": 101,
+          "stops": 30,
+          "lengthKm": 14.81,
+          "stats": {
+            "observations": 737,
+            "matched": 737,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1894695761170713,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Бл. 407 - Аспарухово",
+          "headsign": "Бл. 407 - Аспарухово",
+          "variants": 1,
+          "tripCount": 101,
+          "stops": 30,
+          "lengthKm": 15.02,
+          "stats": {
+            "observations": 749,
+            "matched": 749,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.95735358086118,
+            "roundaboutSegs": 29,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
       "line": "1",
       "mode": "bus",
       "color": "#0059a9",
@@ -1990,153 +2137,6 @@
             "rawMeters": 0,
             "meanError": 1.6981660265319187,
             "roundaboutSegs": 30,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "82",
-      "mode": "bus",
-      "color": "#149a3f",
-      "dirs": [
-        {
-          "dir": "Бл. 407 - ЖП Гара",
-          "headsign": "Бл. 407 - ЖП Гара",
-          "variants": 3,
-          "tripCount": 63,
-          "stops": 24,
-          "lengthKm": 10.52,
-          "stats": {
-            "observations": 526,
-            "matched": 526,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.9626973447504792,
-            "roundaboutSegs": 32,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "ЖП Гара - Бл. 407",
-          "headsign": "ЖП Гара - Бл. 407",
-          "variants": 2,
-          "tripCount": 48,
-          "stops": 23,
-          "lengthKm": 10.31,
-          "stats": {
-            "observations": 514,
-            "matched": 514,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.2501302949055217,
-            "roundaboutSegs": 19,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "83",
-      "mode": "bus",
-      "color": "#149a3f",
-      "dirs": [
-        {
-          "dir": "ЖП Гара - Бл. 407",
-          "headsign": "ЖП Гара - Бл. 407",
-          "variants": 1,
-          "tripCount": 80,
-          "stops": 25,
-          "lengthKm": 12.56,
-          "stats": {
-            "observations": 630,
-            "matched": 630,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.961275364417593,
-            "roundaboutSegs": 47,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "Линия 83 - Бл. 407 - ЖП Гара",
-          "headsign": "Линия 83 - Бл. 407 - ЖП Гара",
-          "variants": 1,
-          "tripCount": 79,
-          "stops": 27,
-          "lengthKm": 11.96,
-          "stats": {
-            "observations": 615,
-            "matched": 615,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.355794452653171,
-            "roundaboutSegs": 17,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "88",
-      "mode": "bus",
-      "color": "#149a3f",
-      "dirs": [
-        {
-          "dir": "Аспарухово - Бл. 407",
-          "headsign": "Аспарухово - Бл. 407",
-          "variants": 1,
-          "tripCount": 101,
-          "stops": 30,
-          "lengthKm": 14.81,
-          "stats": {
-            "observations": 737,
-            "matched": 737,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.1894695761170713,
-            "roundaboutSegs": 38,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "Бл. 407 - Аспарухово",
-          "headsign": "Бл. 407 - Аспарухово",
-          "variants": 1,
-          "tripCount": 101,
-          "stops": 30,
-          "lengthKm": 15.02,
-          "stats": {
-            "observations": 749,
-            "matched": 749,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.95735358086118,
-            "roundaboutSegs": 29,
             "extStart": 0,
             "extEnd": 0
           }
